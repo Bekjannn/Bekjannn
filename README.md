@@ -2,7 +2,6 @@
 
 ##I am a Frontend developer with 2 years of experience.
 
-Latest YouTube videos
 
 ###Languages and Tools
 
@@ -15,10 +14,10 @@ Latest YouTube videos
 
 ###Follow me
 
-[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/MySitesAndPortfolio)
+[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/Muhammad230402)
 
 
-[![Erkin303m's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkin303m&show_icons=true&theme=radical)](https://github.com/Erkin303m/erkin303m)
+[![Bekjannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkin303m&show_icons=true&theme=radical)](https://github.com/Bekjannn/Bekjannn)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
