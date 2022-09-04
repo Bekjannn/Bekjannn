@@ -1,4 +1,4 @@
-[![Header](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)
+[![Header](https://github.com/Bekjannn/Bekjannn/blob/main/assets/Bekjannn.png)](https://github.com/Bekjannn/Bekjannn/blob/main/assets/Bekjannn.png)
 
 ##I am a Frontend developer with 2 years of experience.
 
